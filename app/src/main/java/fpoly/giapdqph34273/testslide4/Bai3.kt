@@ -35,6 +35,7 @@ class Bai3 : ComponentActivity() {
         setContent {
             preview()
         }
+
     }
 }
 
